@@ -1,1 +1,1 @@
-from https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+from https://www.cs.usfca.edu/~galles/visualization/index.html
